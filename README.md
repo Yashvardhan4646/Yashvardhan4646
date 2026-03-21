@@ -1,6 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Yashvardhan
 ====================================================================================================================================
-<iframe src="https://giphy.com/embed/UQ1EI1ML2ABQdbebup" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/cat-pixel-bongo-UQ1EI1ML2ABQdbebup">via GIPHY</a></p>
+<p align="center">
+  <img src="[GIF_LINK](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2d4djgxbHFzZ2hpaHJqcmM3emk5YmdiZGNxcXJ4eHNwNGtza29zbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.gif)" width="400">
+</p>
 Web Developer
 -------------
 
