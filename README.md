@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Yashvardhan
 ====================================================================================================================================
 <p align="center">
-  <img src="[GIF_LINK]([https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2d4djgxbHFzZ2hpaHJqcmM3emk5YmdiZGNxcXJ4eHNwNGtza29zbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJsMzZncTNsMnM2dWI3dXo4ajl4eTdnajI5dWtzYmNwdHZtZWFpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.gif))" width="400">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJsMzZncTNsMnM2dWI3dXo4ajl4eTdnajI5dWtzYmNwdHZtZWFpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.gif" width="450">
 </p>
 Web Developer
 -------------
@@ -12,7 +12,7 @@ I'm a frontend developer who enjoys building modern, aesthetic and interactive w
 * 🖥️  See my portfolio at [My Portfolio](http://yashvardhansharma.vercel.app/)
 * ✉️  You can contact me at [damnyash45@gmail.com](mailto:damnyash45@gmail.com)
 * 🧠  I'm currently learning ReactJs
-* 💬  Ask me about I'm Batman , Don't tell anyone
+* 💬  I'm Batman , Don't tell anyone
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yashvardhan_44) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/basskaryash) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bugfreeyash) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:damnyash45@gmail.com) 
