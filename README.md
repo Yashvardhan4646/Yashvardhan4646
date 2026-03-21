@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Yashvardhan
 ====================================================================================================================================
 <p align="center">
-  <img src="[GIF_LINK](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2d4djgxbHFzZ2hpaHJqcmM3emk5YmdiZGNxcXJ4eHNwNGtza29zbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.gif)" width="400">
+  <img src="[GIF_LINK]([https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2d4djgxbHFzZ2hpaHJqcmM3emk5YmdiZGNxcXJ4eHNwNGtza29zbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJsMzZncTNsMnM2dWI3dXo4ajl4eTdnajI5dWtzYmNwdHZtZWFpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.gif))" width="400">
 </p>
 Web Developer
 -------------
