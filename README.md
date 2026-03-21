@@ -29,8 +29,3 @@ I'm a frontend developer who enjoys building modern, aesthetic and interactive w
 [![](https://visitcount.itsvg.in/api?id=yashvardhan4646&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/yashvardhan4646"><img src="https://github-readme-stats.vercel.app/api?username=yashvardhan4646&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="yashvardhan4646's GitHub stats" /></a>
-
-<a href="https://github.com/yashvardhan4646" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashvardhan4646&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
