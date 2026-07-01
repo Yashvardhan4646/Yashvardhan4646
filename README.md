@@ -27,13 +27,11 @@
 </p>
 
 </div>
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=700&lines=Hi+There+%F0%9F%91%8B;I'm+Yashvardhan;I+Build+Cool+Stuff+On+The+Internet" />
 </p>
-
-====================================================================================================================================
-Web Developer
--------------
 
 I'm a frontend developer who enjoys building modern, aesthetic and interactive websites. I focus on creating experiences that feel smooth, alive and visually engaging instead of plain static pages.
 
