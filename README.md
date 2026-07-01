@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Yashvardhan
 ====================================================================================================================================
 <p align="center">
-  <img src="[https://i.pinimg.com/1200x/e1/b4/97/e1b497d5cc627017dcb13fdf3dfe1a3c.jpg]" width="450">
+  <img src="https://i.pinimg.com/1200x/e1/b4/97/e1b497d5cc627017dcb13fdf3dfe1a3c.jpg" width="450">
 </p>
 Web Developer
 -------------
