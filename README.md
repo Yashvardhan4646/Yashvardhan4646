@@ -1,33 +1,36 @@
 <div align="center">
 
-<table>
-<tr>
+<!-- Main Widget -->
+<p>
+  <a href="https://larpring.github.io/">
+    <img 
+      src="https://larpring.github.io/badge.svg"
+      width="180"
+      alt="Larpring Webring"
+    />
+  </a>
+</p>
 
-<td align="center" width="220">
+<!-- Navigation -->
+<p>
+  <a href="https://larpring.github.io/go.html?from=Yashvardhan4646&dir=prev">
+    <img src="https://img.shields.io/badge/←_PREV-2f2f2f?style=for-the-badge">
+  </a>
 
-<a href="https://larpring.github.io/">
-<img src="https://larpring.github.io/badge.svg" width="140">
-</a>
+  <a href="https://larpring.github.io/random/">
+    <img src="https://img.shields.io/badge/🎲_RANDOM-1f883d?style=for-the-badge">
+  </a>
 
-</td>
-
-<td align="center">
-
-<code>
-<a href="https://larpring.github.io/go.html?from=Yashvardhan4646&dir=prev">PREV</a>
-&nbsp; | &nbsp;
-<a href="https://larpring.github.io/random/">RANDOM</a>
-&nbsp; | &nbsp;
-<a href="https://larpring.github.io/go.html?from=Yashvardhan4646&dir=next">NEXT</a>
-</code>
-
-</td>
-
-</tr>
-</table>
+  <a href="https://larpring.github.io/go.html?from=Yashvardhan4646&dir=next">
+    <img src="https://img.shields.io/badge/NEXT_→-2f2f2f?style=for-the-badge">
+  </a>
+</p>
 
 </div>
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Yashvardhan
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=700&lines=Hi+There+%F0%9F%91%8B;I'm+Yashvardhan;I+Build+Cool+Stuff+On+The+Internet" />
+</p>
+
 ====================================================================================================================================
 Web Developer
 -------------
