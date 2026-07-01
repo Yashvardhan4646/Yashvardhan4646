@@ -1,44 +1,31 @@
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 540px; border: 1px solid #d0d7de; background: #f6f8fa; border-radius: 0px;">
-    <tr>
-      <td align="center" valign="middle" width="35%" style="padding: 18px; border-right: 1px solid #d0d7de; background: #ffffff;">
-        <a href="https://larpring.github.io/" target="_blank" style="text-decoration: none;">
-          <picture>
-            <source media="(prefers-color-scheme: light)" srcset="https://larpring.github.io/badge-light.svg">
-            <img src="https://larpring.github.io/badge.svg" width="140" alt="larpring webring" style="display: block;">
-          </picture>
-        </a>
-      </td>
-    
-      <td align="center" valign="middle" width="65%" style="padding: 18px; font-family: ui-monospace, SFMono-Regular, SF Mono, Consolas, monospace; font-size: 11px; letter-spacing: 1.5px;">
-        <table border="0" cellpadding="0" cellspacing="0">
-          <tr>
-            <td>
-              <a href="https://larpring.github.io/go.html?from=arsh&dir=prev" style="text-decoration: none; color: #57606a; padding: 8px 16px; border: 1px solid #d0d7de; background: #ffffff; font-weight: 600; display: inline-block; border-radius: 0px;">
-                PREV
-              </a>
-            </td>
-            
-            <td><span style="color: #d0d7de; margin: 0 12px; font-weight: 300;">|</span></td>
-            
-            <td>
-              <a href="https://larpring.github.io/random/" style="text-decoration: none; color: #1a7f37; padding: 8px 16px; border: 1px solid #a2d9b1; background: #dafbe1; font-weight: 600; display: inline-block; border-radius: 0px;">
-                RANDOM
-              </a>
-            </td>
-            
-            <td><span style="color: #d0d7de; margin: 0 12px; font-weight: 300;">|</span></td>
-            
-            <td>
-              <a href="https://larpring.github.io/go.html?from=arsh&dir=next" style="text-decoration: none; color: #57606a; padding: 8px 16px; border: 1px solid #d0d7de; background: #ffffff; font-weight: 600; display: inline-block; border-radius: 0px;">
-                NEXT
-              </a>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+
+<table>
+<tr>
+
+<td align="center" width="220">
+
+<a href="https://larpring.github.io/">
+<img src="https://larpring.github.io/badge.svg" width="140">
+</a>
+
+</td>
+
+<td align="center">
+
+<code>
+<a href="https://larpring.github.io/go.html?from=Yashvardhan4646&dir=prev">PREV</a>
+&nbsp; | &nbsp;
+<a href="https://larpring.github.io/random/">RANDOM</a>
+&nbsp; | &nbsp;
+<a href="https://larpring.github.io/go.html?from=Yashvardhan4646&dir=next">NEXT</a>
+</code>
+
+</td>
+
+</tr>
+</table>
+
 </div>
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Yashvardhan
 ====================================================================================================================================
