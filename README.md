@@ -13,7 +13,7 @@
 
 <!-- Navigation -->
 <p>
-  <a href="https://larpring.github.io/go.html?from=Yashvardhan4646&dir=prev">
+  <a href="https://larpring.github.io/go.html?from=Yash&dir=prev">
     <img src="https://img.shields.io/badge/←_PREV-2f2f2f?style=for-the-badge">
   </a>
 
@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/🎲_RANDOM-1f883d?style=for-the-badge">
   </a>
 
-  <a href="https://larpring.github.io/go.html?from=Yashvardhan4646&dir=next">
+  <a href="https://larpring.github.io/go.html?from=Yash&dir=next">
     <img src="https://img.shields.io/badge/NEXT_→-2f2f2f?style=for-the-badge">
   </a>
 </p>
