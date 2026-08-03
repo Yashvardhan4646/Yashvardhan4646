@@ -1,3 +1,18 @@
+<a href="https://yashiscool.vercel.app/">
+  <img src="https://banner.arshnah.in/api/banner" width="100%" alt="banner"/>
+</a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=700&lines=Hi+There+%F0%9F%91%8B;I'm+Yashvardhan;I+Build+Cool+Stuff+On+The+Internet" />
+</p>
+
+I'm a frontend developer who enjoys building modern, aesthetic and interactive websites. I focus on creating experiences that feel smooth, alive and visually engaging instead of plain static pages.
+
+Developer building cool things with Python & web tech.
+
+🐍 Python | ⚛️ React / Web Dev | 🛠️ Open Source
+
+Always shipping, learning, and breaking things to fix them.
+
 <div align="center">
 
 <!-- Main Widget -->
@@ -28,18 +43,6 @@
 
 </div>
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=700&lines=Hi+There+%F0%9F%91%8B;I'm+Yashvardhan;I+Build+Cool+Stuff+On+The+Internet" />
-</p>
-
-I'm a frontend developer who enjoys building modern, aesthetic and interactive websites. I focus on creating experiences that feel smooth, alive and visually engaging instead of plain static pages.
-
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfolio](http://yawwsh.vercel.app/)
-* ✉️  You can contact me at [damnyash45@gmail.com](mailto:damnyash45@gmail.com)
-* 🧠  I'm currently learning ReactJs
-* 💬  I'm Batman , Don't tell anyone
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yashvardhan_44) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/basskaryash) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bugfreeyash) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:damnyash45@gmail.com) 
