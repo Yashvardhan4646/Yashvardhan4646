@@ -1,41 +1,38 @@
+<div align="center">
+
 <a href="https://yashiscool.vercel.app/">
   <img src="https://banner.arshnah.in/api/banner" width="100%" alt="banner"/>
 </a>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=700&lines=Hi+There+%F0%9F%91%8B;I'm+Yashvardhan;I+Build+Cool+Stuff+On+The+Internet" />
-</p>
 
-I'm a frontend developer who enjoys building modern, aesthetic and interactive websites. I focus on creating experiences that feel smooth, alive and visually engaging instead of plain static pages.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+There+%F0%9F%91%8B+I'm+Yashvardhan;Frontend+Developer;I+Build+Cool+Stuff+On+The+Internet" alt="Typing SVG" />
 
-Developer building cool things with Python & web tech.
+</div>
 
-🐍 Python | ⚛️ React / Web Dev | 🛠️ Open Source
+### 🚀 About Me
 
-Always shipping, learning, and breaking things to fix them.
+I'm a frontend developer who loves building modern, aesthetic, and interactive websites — experiences that feel smooth, alive, and visually engaging instead of plain static pages.
+
+- 🔭 Currently building cool things with **Python** and modern web tech
+- 🐍 Python &nbsp;•&nbsp; ⚛️ React / Web Dev &nbsp;•&nbsp; 🛠️ Open Source
+- ⚡ Always shipping, learning, and breaking things just to fix them better
+- 🌐 Portfolio: [yashiscool.vercel.app](https://yashiscool.vercel.app/)
 
 <div align="center">
 
-<!-- Main Widget -->
+<!-- Webring Widget -->
 <p>
   <a href="https://larpring.github.io/">
-    <img 
-      src="https://larpring.github.io/badge.svg"
-      width="180"
-      alt="Larpring Webring"
-    />
+    <img src="https://larpring.github.io/badge.svg" width="180" alt="Larpring Webring" />
   </a>
 </p>
 
-<!-- Navigation -->
 <p>
   <a href="https://larpring.github.io/go.html?from=Yash&dir=prev">
     <img src="https://img.shields.io/badge/←_PREV-2f2f2f?style=for-the-badge">
   </a>
-
   <a href="https://larpring.github.io/random/">
     <img src="https://img.shields.io/badge/🎲_RANDOM-1f883d?style=for-the-badge">
   </a>
-
   <a href="https://larpring.github.io/go.html?from=Yash&dir=next">
     <img src="https://img.shields.io/badge/NEXT_→-2f2f2f?style=for-the-badge">
   </a>
@@ -43,21 +40,88 @@ Always shipping, learning, and breaking things to fix them.
 
 </div>
 
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yashvardhan_44) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/basskaryash) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bugfreeyash) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:damnyash45@gmail.com) 
+### 🌐 Connect With Me
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yashvardhan4646&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yashvardhan4646&theme=solarized-light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvardhan4646&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <a href="https://instagram.com/_yashvardhan_44">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/basskaryash">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@bugfreeyash">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
+  </a>
+  <a href="mailto:damnyash45@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yashvardhan4646&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💻 Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+**Platforms & Tools**
+
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
+
+---
+
+### 🎧 Live Status
+
+<div align="center">
+
+<!-- Discord Presence (Lanyard) — replace YOUR_DISCORD_ID with your numeric Discord user ID -->
+<img src="https://lanyard.arshnah.in/api/1438809246216224820?theme=dark" alt="Discord Presence" />
+
+<!-- Last.fm Now Playing (Lastly) -->
+<img src="https://lastly.arshnah.in/api/now-playing?username=Yawwsh&theme=dark" alt="Last.fm Now Playing" />
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yashvardhan4646&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashvardhan4646&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="49%" />
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=yashvardhan4646&theme=solarized-light&hide_border=false" alt="GitHub Streak" width="70%" />
+
+</div>
+
+### ✍️ Random Dev Quote
+
+<div align="center">
+
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Visitor Count](https://visitcount.itsvg.in/api?id=yashvardhan4646&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<sub>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></sub>
+
+</div>
