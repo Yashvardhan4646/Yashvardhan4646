@@ -101,10 +101,10 @@ I'm a frontend developer who loves building modern, aesthetic, and interactive w
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yashvardhan4646&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashvardhan4646&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="49%" />
+<img src="https://github-readme-stats-sooty-theta.vercel.app/api?username=yashvardhan4646&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats-sooty-theta.vercel.app/api/top-langs/?username=yashvardhan4646&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="49%" />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=yashvardhan4646&theme=solarized-light&hide_border=false" alt="GitHub Streak" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=yashvardhan4646&theme=solarized-light&hide_border=false" alt="GitHub Streak" width="70%" />
 
 </div>
 
@@ -120,7 +120,7 @@ I'm a frontend developer who loves building modern, aesthetic, and interactive w
 
 <div align="center">
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=yashvardhan4646&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitor Count](https://komarev.com/ghpvc/?username=yashvardhan4646&color=blue&style=flat)
 
 <sub>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></sub>
 
