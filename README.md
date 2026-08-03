@@ -125,6 +125,6 @@ I'm a frontend developer who loves building modern, aesthetic, and interactive w
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=yashvardhan4646&color=blue&style=flat)
 
-<sub>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></sub>
+<sub>Made with <a href="https://arshnah.in">arshnah</a></sub>
 
 </div>
