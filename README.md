@@ -4,17 +4,17 @@
   <img src="https://banner.arshnah.in/api/banner" width="100%" alt="banner"/>
 </a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+There+%F0%9F%91%8B+I'm+Yashvardhan;Frontend+Developer;I+Build+Cool+Stuff+On+The+Internet" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=D97706&center=true&vCenter=true&width=700&lines=Hi+There+%F0%9F%91%8B+I'm+Yashvardhan;Self-Taught+Frontend+Developer;Class+of+2026+%E2%80%A2+Building+On+The+Internet" alt="Typing SVG" />
 
 </div>
 
 ### 🚀 About Me
 
-I'm a frontend developer who loves building modern, aesthetic, and interactive websites — experiences that feel smooth, alive, and visually engaging instead of plain static pages.
+Self-taught frontend developer building colorful, highly interactive, standards-compliant web interfaces — clean markup, fluid layouts, and UI that feels alive instead of static. Finished 12th grade in 2026 and spent that time shipping real projects instead of waiting for permission.
 
-- 🔭 Currently building cool things with **Python** and modern web tech
-- 🐍 Python &nbsp;•&nbsp; ⚛️ React / Web Dev &nbsp;•&nbsp; 🛠️ Open Source
-- ⚡ Always shipping, learning, and breaking things just to fix them better
+- 🎓 Class of 2026 — self-guided, project-first
+- ⚛️ React + Vite for the frontend, Python (Flask) when the backend needs it
+- 🎨 Semantic HTML5, fluid CSS3, and interfaces built to be looked at
 - 🌐 Portfolio: [yashiscool.vercel.app](https://yashiscool.vercel.app/)
 
 <div align="center">
@@ -45,6 +45,9 @@ I'm a frontend developer who loves building modern, aesthetic, and interactive w
 ### 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://linkedin.com/in/yashvardhan-4646">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=LinkedIn&logoColor=white" />
+  </a>
   <a href="https://instagram.com/_yashvardhan_44">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
@@ -65,21 +68,67 @@ I'm a frontend developer who loves building modern, aesthetic, and interactive w
 
 **Languages**
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 **Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 **Platforms & Tools**
 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
+
+---
+
+### 🗂️ Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Pyrants — Python Learning Hub](https://pyrants.vercel.app)**
+<br/>Visual Python learning hub and sandbox for students, parents, and teachers to learn to code step-by-step.
+<br/>`React` `Vite` `Monaco Editor`
+
+</td>
+<td width="50%" valign="top">
+
+**[WeBoon](https://github.com/Yashvardhan4646/weboon)**
+<br/>Where non-coders drop app ideas and coders pick them up — bridging imagination and execution.
+<br/>`HTML5` `CSS3` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[TallyOpen Accounting](https://github.com/Yashvardhan4646/TallyOpen)**
+<br/>Open-source web accounting and inventory manager for small shops, built on Flask + SQLite3.
+<br/>`Python` `Flask` `SQLite3`
+
+</td>
+<td width="50%" valign="top">
+
+**[JNV Alumni Connect](https://jnvconnect.vercel.app)**
+<br/>A portal connecting Jawahar Navodaya Vidyalaya alumni for career discussions and events.
+<br/>`HTML5` `CSS3` `JavaScript`
+
+</td>
+</tr>
+</table>
+
+<sub>more on <a href="https://yashiscool.vercel.app/projects">yashiscool.vercel.app/projects</a></sub>
+
+</div>
 
 ---
 
@@ -87,8 +136,10 @@ I'm a frontend developer who loves building modern, aesthetic, and interactive w
 
 <div align="center">
 
-<!-- Discord Presence (Lanyard) — replace YOUR_DISCORD_ID with your numeric Discord user ID -->
-<img src="https://lanyard.arshnah.in/api/1438809246216224820?theme=dark" alt="Discord Presence" />
+<!-- Discord Presence (Lanyard) -->
+<a href="https://discord.com/users/1438809246216224820">
+  <img src="https://lanyard.arshnah.in/api/1438809246216224820?hideSpotify=true&hideAppleMusic=true&hideActivity=true&showDisplayName=true" alt="Discord Presence" />
+</a>
 
 <!-- Last.fm Now Playing (Lastly) -->
 <img src="https://lastly.arshnah.in/api/now-playing?username=Yawwsh&theme=dark" alt="Last.fm Now Playing" />
