@@ -1,11 +1,11 @@
 <div align="center">
 
-<a href="https://yashiscool.vercel.app/">
+<a href="https://yash.arshnah.in/">
   <img src="https://banner.arshnah.in/api/banner" width="100%" alt="banner"/>
 </a>
 
-<a href="https://yashiscool.vercel.app/">
-  <img src="https://yashiscool.vercel.app/api/stack" alt="Yashvardhan's live GitHub stats card, styled to match yashiscool.vercel.app — account age, location, repos, stars, followers, top languages" width="820"/>
+<a href="https://yash.arshnah.in/">
+  <img src="https://yash.arshnah.in/api/stack" alt="Yashvardhan's live GitHub stats card, styled to match yash.arshnah.in — account age, location, repos, stars, followers, top languages" width="820"/>
 </a>
 
 <br/>
@@ -16,9 +16,9 @@
 
 colorful, interactive, standards-compliant // frontend
 
-self-taught frontend developer building interfaces that don't feel like static pages. shipped [Pyrants](https://pyrants.vercel.app) (a visual Python learning sandbox), [WeBoon](https://github.com/Yashvardhan4646/weboon) (where non-coders' app ideas meet coders who build them), and [TallyOpen](https://github.com/Yashvardhan4646/TallyOpen) (open-source shop accounting on Flask). finished 12th grade in 2026 and spent the year shipping instead of waiting. more at **[yashiscool.vercel.app](https://yashiscool.vercel.app)**.
+self-taught frontend developer building interfaces that don't feel like static pages. shipped [Pyrants](https://pyrants.vercel.app) (a visual Python learning sandbox), [WeBoon](https://github.com/Yashvardhan4646/weboon) (where non-coders' app ideas meet coders who build them), and [TallyOpen](https://github.com/Yashvardhan4646/TallyOpen) (open-source shop accounting on Flask). finished 12th grade in 2026 and spent the year shipping instead of waiting. more at **[yash.arshnah.in](https://yash.arshnah.in)**.
 
-[website](https://yashiscool.vercel.app) &middot; [github](https://github.com/Yashvardhan4646) &middot; [linkedin](https://linkedin.com/in/yashvardhan-4646) &middot; [email](mailto:damnyash45@gmail.com)
+[website](https://yash.arshnah.in) &middot; [github](https://github.com/Yashvardhan4646) &middot; [linkedin](https://linkedin.com/in/yashvardhan-4646) &middot; [email](mailto:damnyash45@gmail.com)
 
 <sub>also on [instagram](https://instagram.com/_yashvardhan_44) &middot; [x](https://x.com/basskaryash) &middot; [youtube](https://youtube.com/@bugfreeyash)</sub>
 
@@ -41,11 +41,11 @@ self-taught frontend developer building interfaces that don't feel like static p
 
 **more shipped**
 
-[Random Video Call](https://randomvideocall.vercel.app) — peer-to-peer WebRTC video chat &nbsp;·&nbsp;
-[JNV Connect](https://jnvconnect.vercel.app) — alumni portal for JNV students &nbsp;·&nbsp;
-[JSLEARN](https://wthpoke.vercel.app) — interactive JS ES6 learning platform
+[Random Video Call](https://randomvideocall.vercel.app): peer-to-peer WebRTC video chat &nbsp;·&nbsp;
+[JNV Connect](https://jnvconnect.vercel.app): alumni portal for JNV students &nbsp;·&nbsp;
+[JSLEARN](https://wthpoke.vercel.app): interactive JS ES6 learning platform
 
-<sub>full list on <a href="https://yashiscool.vercel.app/projects">yashiscool.vercel.app/projects</a></sub>
+<sub>full list on <a href="https://yash.arshnah.in/projects">yash.arshnah.in/projects</a></sub>
 
 </div>
 
