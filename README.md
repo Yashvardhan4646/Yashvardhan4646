@@ -101,8 +101,11 @@ I'm a frontend developer who loves building modern, aesthetic, and interactive w
 
 <div align="center">
 
-<img src="https://github-readme-stats-sooty-theta.vercel.app/api?username=yashvardhan4646&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats-sooty-theta.vercel.app/api/top-langs/?username=yashvardhan4646&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="49%" />
+<a href="https://yashiscool.vercel.app/">
+  <img src="https://yashiscool.vercel.app/api/stack" alt="live GitHub stats card in Yashvardhan's own site style — account age, location, repos, stars, followers, top languages" width="820" />
+</a>
+
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=yashvardhan4646&theme=solarized-light&hide_border=false" alt="GitHub Streak" width="70%" />
 
