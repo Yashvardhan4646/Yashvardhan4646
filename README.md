@@ -69,6 +69,5 @@ self-taught frontend developer building interfaces that don't feel like static p
   </a>
 </p>
 
-<sub>Made with <a href="https://arshnah.in">arshnah</a></sub>
 
 </div>
