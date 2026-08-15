@@ -29,7 +29,7 @@ self-taught frontend developer building interfaces that don't feel like static p
 <div align="center">
 
 <a href="https://discord.com/users/1438809246216224820">
-  <img src="https://lanyard.arshnah.in/api/1438809246216224820?hideSpotify=true&hideAppleMusic=true&hideActivity=true&showDisplayName=true" alt="Discord Presence"/>
+  <img src="https://lanyard.arshnah.in/api/1438809246216224820?hideSpotify=true&hideAppleMusic=true&hideActivity=true&showDisplayName=true&self=true" alt="Discord Presence"/>
 </a>
 <img src="https://lastly.arshnah.in/api/now-playing?username=Yawwsh&theme=dark" alt="Last.fm Now Playing"/>
 
