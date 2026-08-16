@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://yash.arshnah.in/">
-  <img src="https://yash.arshnah.in/api/stack" alt="Yashvardhan's live GitHub stats card, styled to match yash.arshnah.in — account age, location, repos, stars, followers, top languages" width="820"/>
+  <img src="https://yashiscool.vercel.app/api/stack" alt="Yashvardhan's live GitHub stats card, styled to match yash.arshnah.in — account age, location, repos, stars, followers, top languages" width="820"/>
 </a>
 
 <br/>
