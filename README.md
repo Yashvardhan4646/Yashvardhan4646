@@ -16,7 +16,7 @@
 
 colorful, interactive, standards-compliant // frontend
 
-self-taught frontend developer building interfaces that don't feel like static pages. shipped [Pyrants](https://pyrants.vercel.app) (a visual Python learning sandbox), [WeBoon](https://github.com/Yashvardhan4646/weboon) (where non-coders' app ideas meet coders who build them), and [TallyOpen](https://github.com/Yashvardhan4646/TallyOpen) (open-source shop accounting on Flask). finished 12th grade in 2026 and spent the year shipping instead of waiting. more at **[yash.arshnah.in](https://yash.arshnah.in)**.
+self-taught frontend developer building interfaces that don't feel like static pages. shipped [Pyrants](https://pyrants.vercel.app) (a visual Python learning sandbox) and [TallyOpen](https://github.com/Yashvardhan4646/TallyOpen) (open-source shop accounting on Flask). finished 12th grade in 2026 and spent the year shipping instead of waiting. more at **[yash.arshnah.in](https://yash.arshnah.in)**.
 
 [website](https://yash.arshnah.in) &middot; [github](https://github.com/Yashvardhan4646) &middot; [email](mailto:damnyash45@gmail.com)
 
