@@ -1,7 +1,11 @@
 <div align="center">
 
-<a href="https://yash.arshnah.in/">
-  <img src="https://banner.arshnah.in/api/banner" width="100%" alt="banner"/>
+<a href="https://sakura-garden.vercel.app" target="_blank" rel="noopener">
+ <picture>
+  <source srcset="https://sakura-garden.vercel.app/api/svg?username=yashvardhan4646&theme=kawaii-dark" media="(prefers-color-scheme: dark)" width="846" height="132" style="height:auto" />
+  <source srcset="https://sakura-garden.vercel.app/api/svg?username=yashvardhan4646&theme=kawaii" media="(prefers-color-scheme: light)" width="846" height="132" style="height:auto" />
+  <img src="https://sakura-garden.vercel.app/api/svg?username=yashvardhan4646&theme=kawaii" width="846" height="132" style="height:auto" />
+</picture>
 </a>
 
 <a href="https://yash.arshnah.in/">
