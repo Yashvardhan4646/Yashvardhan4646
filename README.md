@@ -45,9 +45,16 @@ self-taught frontend developer building interfaces that don't feel like static p
 
 **more shipped**
 
-[Random Video Call](https://randomvideocall.vercel.app): peer-to-peer WebRTC video chat &nbsp;·&nbsp;
-[JNV Connect](https://jnvconnect.vercel.app): alumni portal for JNV students &nbsp;·&nbsp;
-[JSLEARN](https://wthpoke.vercel.app): interactive JS ES6 learning platform
+### 🚀 Featured Projects
+
+* **[MobiCam](https://github.com/Yashvardhan4646/MobiCam)** — Turns spare smartphones into zero-latency AI security cameras.  
+  `Python` • `OpenCV` • `Kotlin`
+
+* **[Pyrants](https://github.com/Yashvardhan4646/pyrants)** — Interactive visual Python sandbox with real-time progress tracking.  
+  `Next.js` • `TypeScript` • `Supabase`
+
+* **[TallyOpen](https://github.com/Yashvardhan4646/TallyOpen)** — Lightweight, open-source ledger and inventory management web app.  
+  `Python` • `Flask` • `SQLite`
 
 <sub>full list on <a href="https://yash.arshnah.in/projects">yash.arshnah.in/projects</a></sub>
 
