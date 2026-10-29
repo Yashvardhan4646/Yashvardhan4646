@@ -27,7 +27,19 @@ self-taught frontend developer building interfaces that don't feel like static p
 <sub>also on [instagram](https://instagram.com/_yashvardhan_44) &middot; [x](https://x.com/basskaryash) &middot; [youtube](https://youtube.com/@bugfreeyash)</sub>
 
 </div>
+<div align="center">
+**— Shipping with —**
 
+[![Skills](https://skillicons.dev/icons?i=nextjs,react,js,ts,tailwind,Supabase,nodejs&theme=dark&perline=8)](https://skillicons.dev)
+
+**— Tooling —**
+
+[![Skills](https://skillicons.dev/icons?i=git,github,vercel,cloudflare,pnpm&theme=dark&perline=8)](https://skillicons.dev)
+
+**— Also used —**
+
+[![Skills](https://skillicons.dev/icons?i=bash,vscode,bun,python,netlify,vite&theme=dark&perline=8)](https://skillicons.dev)
+</div>
 <br/>
 
 <div align="center">
