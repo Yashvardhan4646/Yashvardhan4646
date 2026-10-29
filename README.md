@@ -41,12 +41,14 @@ self-taught frontend developer building interfaces that don't feel like static p
 [![Skills](https://skillicons.dev/icons?i=bash,vscode,bun,python,netlify,vite&theme=dark&perline=8)](https://skillicons.dev)
 </div>
 <br/>
-
 <div align="center">
-
-<a href="https://discord.com/users/1438809246216224820">
+ <a href="https://discord.com/users/1438809246216224820">
   <img src="https://lanyard.arshnah.in/api/1438809246216224820?hideSpotify=true&hideAppleMusic=true&hideActivity=true&showDisplayName=true&self=true" alt="Discord Presence"/>
 </a>
+</div>
+<div align="center" >
+
+
 <img src="https://lastly.arshnah.in/api/now-playing?username=Yawwsh&theme=dark" alt="Last.fm Now Playing"/>
 
 </div>
